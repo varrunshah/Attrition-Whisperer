@@ -18,7 +18,7 @@ This project aims to:
 1. Achieved **85.5% accuracy** in predicting employee attrition.
 2. Top features identified influencing churn- race, job satisfaction, role and by department
 3. **GPT-4** generated real time summaries:
-   > "Production Department has 31.8% attrition risk. Drivers: Low Engagement, high overtime, Considering bonus revision and additional benefits."
+   > "Production Department has 31.8% attrition risk. Drivers: Low Engagement, High Overtime, Considering bonus revision and additional benefits."
 
 ## What I Learned
 1. How to combine classical ML with modern LLMs
